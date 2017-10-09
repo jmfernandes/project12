@@ -1,0 +1,7 @@
+In order to deploy link the root folder (outside src) to GitHub repo then run
+
+ng build —prod —base-href “https://jmfernandes.github.io/project12/“
+
+Then run
+
+Angular-cli-ghpages
